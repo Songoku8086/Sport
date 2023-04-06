@@ -679,7 +679,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14179/index.m3u8
 
 #-------------------Minh Đức Giải Trí-------------------#
 #EXTINF:-1 tvg-id="hbohd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.imgur.com/w5u4IrO.png",▶️| HBO (HD 8Mbps)
-udp://@225.1.2.233:30120
+http://103.56.160.133:8081/hbo
 #EXTINF:-1 tvg-id="hbo2hd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/gM2rDGW/1265677.png",▶️| HBO 2
 http://raw.bitnode.pm:81/gomez3419@gmail.com/0124986/121725
 #EXTINF:-1 tvg-id="axnhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",▶️| AXN (HD 8Mbps)
