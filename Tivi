@@ -163,9 +163,9 @@ udp://@225.1.2.148:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="💚| Kênh Thiết yếu" tvg-logo="https://i.ibb.co/N9zkzV2/Quoc-Phong-cc.webp",❤️| QPVN (HD 8Mbps)
 udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="💚| Kênh Thiết yếu" tvg-logo="https://pbs.twimg.com/media/Fa6-tcfacAA0WFd?format=png",❤️| VNEWS (HD 8Mbps)
-udp://@225.1.1.43:30120
+https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="💚| Kênh Thiết yếu" tvg-logo="https://i.ibb.co/tY8jbSB/VOV-cc.webp",❤️| VOV TV
-udp://@225.1.2.171:30120
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hanoi1"group-title="💚| Kênh Thiết yếu" tvg-logo="https://i.imgur.com/ajnzMuj.png",❤️| Hà Nội1 (HD 8Mbps)
 udp://@225.1.2.186:30120
 #EXTINF:-1 tvg-id="hanoi2" group-title="💚| Kênh Thiết yếu" tvg-logo="https://i.imgur.com/5Nc0aiR.png",❤️| Hanoi2 HD
@@ -248,6 +248,24 @@ http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AQA8GU+AN0ZrUUpRd0nWpQ", "kid":"TrlQO+gDQfu0hTvXTMlRRA" } ], "type":"temporary" }
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="" group-title="💗| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/13871247-f8b2-4aab-80e3-dbb859adf101.png", ON Sports ENG
+http://code.vthanhtivi.pw/getlink/onplus/ONSPORTTA/m30_index.m3u8
+#EXTINF:-1 tvg-id="" group-title="💗| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/f6818e24-6211-42c5-aad5-4846dd29ee99.png", ON Football ENG
+http://code.vthanhtivi.pw/getlink/onplus/ONFOOTBALLTA/m30_index.m3u8
+#EXTINF:-1 tvg-id="" group-title="💗| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/5de42a4a-a26a-4eab-afcc-c119c9f918bb.png", ON Sports News ENG
+http://code.vthanhtivi.pw/getlink/onplus/ONSPORTNEWSTA/m30_index.m3u8
+#EXTINF:-1 tvg-id="" group-title="💗| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ad12aa62-1d69-4141-8852-18d65ab3be64.jpg", ON Golf ENG
+http://code.vthanhtivi.pw/getlink/onplus/ONGOLFTA/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="💗| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng đá Việt
+http://code.vthanhtivi.pw/getlink/onplus/ONVFFTV/m30_index.m3u8
+#EXTINF:-1 tvg-id="" group-title="💗| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
+http://code.vthanhtivi.pw/getlink/onplus/ONVOLLEYBALL/m30_index.m3u8
+
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1 1
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1 2
+http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1 cine
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1  life
 
 #EXTINF:-1 group-title="💗| VTVcab" tvg-logo="https://i.ibb.co/4KXXXK6/On-Sports.png" tvg-id="onsportjungo", ON Sport (Jungo)
 https://hqth.me/onsportjungo
@@ -490,7 +508,8 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 http://tribaliptv.com:8080/Gustavo/123456/4930
 #EXTINF:-1 tvg-name="SPORT5" tvg-logo="https://i.ibb.co/fFB348B/sport5.png" group-title="🌏| 4K 🇺 🇭 🇩",SPORT 5 4K
 http://humiptv.live:8080/live/0473936210/8252829362/121874.ts
-
+#EXTINF:-1 tvg-name="SPORT5" tvg-logo="" group-title="🌏| 4K 🇺 🇭 🇩", NBA TV 4K
+http://raw.bitnode.pm:81/giorgi/giorgi/1555715
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zx2FgHZ/TVP-4K.png" group-title="🌏| 4K 🇺 🇭 🇩",⚽ TVP 4k
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20078/index.m3u8
@@ -681,7 +700,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14179/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.imgur.com/w5u4IrO.png",▶️| HBO (HD 8Mbps)
 http://103.56.160.133:8081/hbo
 #EXTINF:-1 tvg-id="hbo2hd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/gM2rDGW/1265677.png",▶️| HBO 2
-http://raw.bitnode.pm:81/gomez3419@gmail.com/0124986/121725
+http://raw.bitnode.pm:81/giorgi/giorgi/121725
 #EXTINF:-1 tvg-id="axnhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",▶️| AXN (HD 8Mbps)
 udp://@225.1.2.225:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/ss7qbgg/Cinema-World-cc.png",▶️| Cinema World (HD 8Mbps)
@@ -788,7 +807,7 @@ http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EwLawKc.png" group-title="🌿| Khám phá",🍀|CNBC
 http://raw.bitnode.pm:81/giorgi/giorgi/121628
 #EXTINF:-1 tvg-id="cnn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vBwWXZZ.png",🍀|CNN
-http://raw.bitnode.pm:81/giorgi/giorgi/20460
+http://cdn-cf.vthanhtivi.pw/fptplay/cnn/bitrate_5000.m3u8
 
 #-------------------Live Bóng Đá-------------------#
 #EXTINF:-1 tvg-id="mutv" tvg-logo="https://i.ibb.co/87ggMSv/MU.png" group-title="🔴| LÂM-PHONG SPORT",⚽ MU-CLub
@@ -810,7 +829,7 @@ http://2.cvmtv.site:8080/stream/channelid/1705267767
 #EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/JRCWqbZ/canal-sport-360.png",Canal+ Sport 360
 http://ys-users.com:8080/patrickkrousseau@gmail.com/hMi9AWvhSi/496731
 #EXTINF:-1 tvg-id="beinsport1" tvg-logo="https://i.ibb.co/z5jH117/bein-sports-1.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 1
-http://ys-users.com:8080/patrickkrousseau@gmail.com/hMi9AWvhSi/496577
+http://starshare.live:8080/live/524594796468/697620653578/143237.ts
 #EXTINF:-1 #EXTINF:-1 tvg-id="beinsport2" tvg-logo="https://i.ibb.co/tptzTbx/bein-sports-2.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 2
 http://starshare.live:8080/live/524594796468/697620653578/143239.ts
 #EXTINF:-1 #EXTINF:-1 tvg-id="beinsport3" tvg-logo="https://i.ibb.co/s671Xhf/bein-sports-3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 3
@@ -830,7 +849,7 @@ http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12076/index.m3u8
 #EXTINF:1 tvg-id="freesports.uk" group-title="🔴| LÂM-PHONG SPORT" tvg-name="Viaplay Xtra FHD VIP UK" tvg-logo="https://i.ibb.co/2yCdzKP/VSport-Extra.png",Viaplay Xtra FHD
 http://dc62c084.ottolok.net/iptv/8E52MW5BS9BCE7/12074/index.m3u8
 #EXTINF:1 tvg-id="" group-title="🔴| LÂM-PHONG SPORT" tvg-name="V Sport Premier League FHD" tvg-logo="https://i.ibb.co/3ChDTNL/vsportpremier2.png",⚽| V Sport Premier League
-http://mag.you24.online:80/order20805/ufub8kaejr/696636
+http://mag.you24.online:80/smarttverz/72p44x7OkNDDLd/696636
 #EXTINF:1 tvg-id="" group-title="🔴| LÂM-PHONG SPORT" tvg-name="V Sport Premier League 1 FHD VIP NO" tvg-logo="https://i.ibb.co/GJC49bF/vsporrpremier.png",⚽| V Sport FHD
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19163/index.m3u8
@@ -840,9 +859,9 @@ http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12079/index.m3u8
 #EXTINF:-1 tvg-id="hubpremier1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="🔴| LÂM-PHONG SPORT",⚽| HubPremier 1
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1 tvg-id="hubpremier2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="🔴| LÂM-PHONG SPORT",⚽| HubPremier 2
-http://starshare.live:8080/live/524594796468/697620653578/148159.ts
+http://rogermellie.xyz:80/richay/richay/1068090
 #EXTINF:-1 tvg-id="HubPremier3" tvg-name="HubPremier3" tvg-logo="https://i.ibb.co/4Ns61QY/znzwou1659622086.png" group-title="🔴| LÂM-PHONG SPORT",⚽ HubPremier 3
-http://starshare.live:8080/live/524594796468/697620653578/148160.ts
+http://rogermellie.xyz:80/richay/richay/1068089
 #EXTINF:0 tvg-id="astrosupersport" tvg-name="AstroSuperSport" tvg-logo="https://i.ibb.co/ZJvBYyx/Astro-Super-Sport-UHD.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Astro SuperSport
 http://humiptv.live:8080/live/0473936210/8252829362/5480.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Astro SuperSport 2" tvg-name="MY: ASTRO SUPERSPORT 2 FHD" tvg-logo="https://i.ibb.co/QPqdLxk/astro2.png" group-title="🔴| LÂM-PHONG SPORT",ASTRO SUPERSPORT 2
@@ -922,7 +941,7 @@ http://mag.you24.online:80/smarttverz/72p44x7OkNDDLd/13119
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/10079/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmotogp.it" tvg-name="IT: SKY SPORT MOTOGP FHD" tvg-logo="https://logo.iptveditor.com/skysportmotogp.png" group-title="🔴| LÂM-PHONG SPORT", SKY SPORT MOTOGP FHD
-http://raw.bitnode.pm:81/gomez3419@gmail.com/0124986/1115953
+http://lumaca.talumagishop.de:8000/ticino118/hjCD2SHKVw/32518
 #EXTINF:-1 tvg-id="daznf1hd" tvg-logo="https://i.ibb.co/BT98bBW/DAZN-F1.png" group-title="🔴| LÂM-PHONG SPORT",DAZN F1
 http://rogermellie.xyz:80/richay/richay/3413557
 
@@ -936,6 +955,8 @@ https://got.vampirereapers.xyz:443/Derrick26/Beatty26/356354
 #EXTINF:0 tvg-id="mmatvhd" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/x1m29yh/MMAtv.png",🎖️| MMA-TV.com HD
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19243/index.m3u8
+#EXTINF:-1 tvg-id="WWENetwork" tvg-name="Peacock Live | WWE Network" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="Peacock Live",Peacock Live | WWE Network
+http://rogermellie.xyz:80/richay/richay/3413100
 #EXTINF:-1 tvg-id="wwehd" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="🔴| LÂM-PHONG SPORT",WWE HD
 http://ru02.spr24.net/24266/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/9WDS1Vk/logo.png",🎖️|SKY HIGH FIGHT +
