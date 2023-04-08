@@ -118,11 +118,11 @@ https://cocc.me/🧞.juㅤ
 https://cocc.me/🧞.xdㅤ
 #EXTINF:-1 tvg-id="nicktoons" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",NickToons
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418032
-#EXTINF:-1 tvg-id="" tvg-name="SkyKidsHD" tvg-logo="https://www.cable.co.uk/images/content/sky_kids_app_square_min.jpg" group-title="🌈| Hoạt hình",Sky Kids FHD
+#EXTINF:-1 tvg-id="" tvg-name="SkyKidsHD" tvg-logo="https://i.ibb.co/wMnp5tV/Sky-Kids.png" group-title="🌈| Hoạt hình",Sky Kids FHD
 http://rogermellie.xyz:80/richay/richay/3399211
 #EXTINF:-1 tvg-id="skycinemaanimation" tvg-name="SkyKidsHD" tvg-logo="https://i.ibb.co/Bw4M2xJ/Sky-Cinema-Animation.png" group-title="🌈| Hoạt hình", Sky Cinema Animation ᴴᴰ
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508114
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Kids TV" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="🌈| Hoạt hình",LEGO Kids TV
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Kids TV" tvg-logo="https://i.ibb.co/z2kWh2P/Lego.png" group-title="🌈| Hoạt hình",LEGO Kids TV
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418044
 #EXTINF:-1 tvg-id="PlutoTVKidsUK.uk" tvg-logo="https://i.ibb.co/WPDX5j7/bluto.png" group-title="🌈| Hoạt hình",Pluto TV Kids
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=71421972-6e5b-11ed-90a5-d115a2edefb3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dd4a266f-a725-45bd-a00e-5694c5ade9a7&serverSideAds=false
@@ -138,7 +138,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/13078/index.m3u8
 #EXTINF:-1 tvg-id="bcukids" group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/zFNJkbh/bcu-kids-4k.png",BCU Kids ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/17023/index.m3u8
-#EXTINF:-1 tvg-id="cineboxanimation" group-title="🌈| Hoạt hình" tvg-logo="", Cinebox Animation ᴴᴰ
+#EXTINF:-1 tvg-id="cineboxanimation" group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/S0Z2crr/CineBox.png", Cinebox Animation ᴴᴰ
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/430738
 #EXTINF:0 group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/NZSkvfW/Liberty-Kids.png",LIBERTY Kids ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
@@ -454,10 +454,10 @@ http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/14250/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18163/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/1ngTT1j/Picsart-22-12-22-21-30-54-478.png" group-title="🌏| 4K 🇺 🇭 🇩",🎶 Muzzik 4K
+#EXTINF:0 tvg-logo="https://i.ibb.co/1ngTT1j/Picsart-22-12-22-21-30-54-478.png" group-title="🌏| 4K 🇺 🇭 🇩",🎶 Muzzik ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/16044/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSc59dP/Mezzo.png" group-title="🌏| 4K 🇺 🇭 🇩",🎶 MEZZO 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSc59dP/Mezzo.png" group-title="🌏| 4K 🇺 🇭 🇩",🎶 MEZZO ⁴ᴷ
 http://starshare.live:8080/live/524594796468/697620653578/143651.ts
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.ibb.co/th8pQCY/Bloomberg-TV-News.png" group-title="🌏| 4K 🇺 🇭 🇩",Bloomberg ⁴ᴷ
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -483,7 +483,7 @@ http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
 
 #EXTINF:0 group-title="🌏| 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/zSv7xmm/Sky-Sport-Bundesliga-UHD-DE-Logo-2020-svg.png",⚽ Sky Sport Bundesliga ⁴ᴷ
 http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=ZKF89T31BF
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1UHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-f1-uk.png" group-title="🌏| 4K 🇺 🇭 🇩",Sky Sports F1 ⁴ᴷ
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1UHD" tvg-logo="https://i.ibb.co/gTd6Hnn/1280px-Sky-Sport-F1-Logo-2018-svg.png" group-title="🌏| 4K 🇺 🇭 🇩",Sky Sports F1 ⁴ᴷ
 http://nv1connect.com:80/12345678/87654321/73791
 #EXTINF:-1 tvg-id="hubpremier2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="🌏| 4K 🇺 🇭 🇩",HubPremier ⁴ᴷ
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=FzoklzfqN1
@@ -492,17 +492,17 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20068/index.m3u8
 #EXTINF:1 tvg-id="viasatsport.fi" group-title="🌏| 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
 http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=ZKF89T31BF
-#EXTINF:-1 tvg-id="Vsportuhd" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🌏| 4K 🇺 🇭 🇩",V Sport UltraHD 4K UHD 
+#EXTINF:-1 tvg-id="Vsportuhd" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🌏| 4K 🇺 🇭 🇩",V Sport UltraHD ⁴ᴷ UHD 
 https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="🌏| 4K 🇺 🇭 🇩",⚽ Astro Super Sport ⁴ᴷ
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TH06dMG/Canal-4-K-UHD.png" group-title="🌏| 4K 🇺 🇭 🇩",⚽ CANAL+ FOOT 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TH06dMG/Canal-4-K-UHD.png" group-title="🌏| 4K 🇺 🇭 🇩",⚽ CANAL+ FOOT ⁴ᴷ
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="🌏| 4K 🇺 🇭 🇩",⚽ Hub Premier Sport ⁴ᴷ
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/DBA793B1-61D9-48FD-B2DA-F0B8EA9CC24C.jpeg" group-title="🌏| 4K 🇺 🇭 🇩",DAZN F1 UHD ⁴ᴷ
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/DBA793B1-61D9-48FD-B2DA-F0B8EA9CC24C.jpeg" group-title="🌏| 4K 🇺 🇭 🇩",DAZN F1 ⁴ᴷ UHD ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
 http://tribaliptv.com:8080/Gustavo/123456/4930
 #EXTINF:-1 tvg-name="SPORT5" tvg-logo="https://i.ibb.co/fFB348B/sport5.png" group-title="🌏| 4K 🇺 🇭 🇩",SPORT 5 ⁴ᴷ
@@ -894,7 +894,7 @@ http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508250
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="laligatv.uk" tvg-name="LA LIGA TV FHD" tvg-logo="https://logo.iptveditor.com/laligatv.png" group-title="🔴| LÂM-PHONG SPORT",⚽ LA LIGA TV FHD
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/501474
 #EXTINF:1 tvg-id="" tvg-name="DAZN" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.postimg.cc/jdwJ9tyZ/DAZN-La-Liga.jpg",⚽ DAZN Laliga FHD
-http://mag.you24.online:80/order20805/ufub8kaejr/695843
+http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/115070
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="🔴| LÂM-PHONG SPORT", DAZN 1
 http://rogermellie.xyz:80/richay/richay/3413630
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="🔴| LÂM-PHONG SPORT", DAZN 2
@@ -908,7 +908,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20064/index.m3u8
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20065/index.m3u8
 
 #EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",🎖️| TVP Sport
-http://2.cvmtv.site:8080/stream/channelid/1560768115
+http://humiptv.live:8080/live/0473936210/8252829362/131886.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Byqcf30/Trace-SSLogo.png" group-title="🔴| LÂM-PHONG SPORT",🎖️| Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://i.ibb.co/ryZ3jb0/euro1.png" group-title="🔴| LÂM-PHONG SPORT", EuroSport 1
@@ -934,8 +934,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?cc
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508259
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nm670rg/racingtv.png" group-title="🔴| LÂM-PHONG SPORT",RACING TV HD
 http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/132664
-#EXTINF:-1 tvg-id="zsr" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f851%2fziggo-sport-racing-1.png",🎖️| Ziggo Sport Racing
-http://mag.you24.online:80/smarttverz/72p44x7OkNDDLd/13119
+#EXTINF:-1 tvg-id="zsr" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/st0W3mm/Ziggo-Sport-Racing.png",🎖️| Ziggo Sport Racing
+http://nv1connect.com:80/12345678/87654321/28726
 #EXTINF:-1 tvg-id="skysport1hd" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/7Q7Nm20/Sky-Sport-F1.png",🎖️| Sky Sports F1
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/10079/index.m3u8
@@ -968,7 +968,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/15097/index.m3u8
 #EXTINF:-1 tvg-id="ufchd" tvg-logo="https://i.ibb.co/nmxL95J/ufc.png" group-title="🔴| LÂM-PHONG SPORT",UFC HD
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/392618
 #EXTINF:-1 tvg-id="wwenetwork" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="🔴| LÂM-PHONG SPORT",🎖️| WWE Network
-http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/405955
+http://raw.bitnode.pm:81/giorgi/giorgi/33618
 #EXTINF:-1 tvg-id="fightsports" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/VqskkPL/FIGHT-SPORTS-2018.png",🎖️| FIGHT SPORTS
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508840
 #EXTINF:-1 tvg-id="fightnetwork" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/qrWHqLb/fight.png",🎖️| Fight Network
