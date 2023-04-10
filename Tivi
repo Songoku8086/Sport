@@ -501,6 +501,8 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20076/index.m3u8
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20071/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBCSPORT" tvg-logo="https://i.ibb.co/mFymsQV/BBC-Sport.png" group-title="🌏| 4K 🇺 🇭 🇩",BBC SPORT ⁴ᴷ UHD (Events Only)
 http://rogermellie.xyz:80/richay/richay/3157685
+#EXTINF:-1 tvg-name="BTV-8KSDR" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="🌏| 4K 🇺 🇭 🇩",BTV-8KSDR
+http://159.75.85.63:6798
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 tvg-id="htv2hd" group-title="📺| HTV/HTVC" tvg-logo="https://pbs.twimg.com/media/Fa7AbJNacAI1x1L?format=png",HTV2 Vie Channel (HD 8Mbps)
 udp://@225.1.1.193:30120
@@ -691,6 +693,8 @@ udp://@225.1.2.86:30120
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="warnertvhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/myLbZ8m/8124486-new-wtv-logo.png",▶️| WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
+#EXTINF:-1 tvg-id="kbsworldhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png",▶️| KBS WORLD (HD 8Mbps)
+udp://@225.1.1.196:30120
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",▶️| Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
@@ -786,8 +790,9 @@ http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EwLawKc.png" group-title="🌿| Khám phá",🍀|CNBC
 http://raw.bitnode.pm:81/giorgi/giorgi/121628
 #EXTINF:-1 tvg-id="cnn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vBwWXZZ.png",🍀|CNN
-http://cdn-cf.vthanhtivi.pw/fptplay/cnn/bitrate_5000.m3u8
-
+udp://@225.1.1.242:30120
+#EXTINF:-1 tvg-id="cna" tvg-logo="https://i.ibb.co/gjVkS2V/CNA.png" group-title="🌿| Khám phá",CNA (HD 8Mbps)
+udp://@225.1.1.202:30120
 #-------------------Live Bóng Đá-------------------#
 #EXTINF:-1 tvg-id="mutv" tvg-logo="https://i.ibb.co/87ggMSv/MU.png" group-title="🔴| LÂM-PHONG SPORT",⚽ MU-CLub
 http://raw.bitnode.pm:81/giorgi/giorgi/20374
