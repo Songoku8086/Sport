@@ -693,8 +693,9 @@ udp://@225.1.2.86:30120
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="warnertvhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/myLbZ8m/8124486-new-wtv-logo.png",▶️| WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-id="kbsworldhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png",▶️| KBS WORLD (HD 8Mbps)
+#EXTINF:-1 tvg-id="kbsworld" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png",▶️| KBS WORLD (HD 8Mbps)
 udp://@225.1.1.196:30120
+
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",▶️| Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
@@ -793,6 +794,7 @@ http://raw.bitnode.pm:81/giorgi/giorgi/121628
 udp://@225.1.1.242:30120
 #EXTINF:-1 tvg-id="cna" tvg-logo="https://i.ibb.co/gjVkS2V/CNA.png" group-title="🌿| Khám phá",CNA (HD 8Mbps)
 udp://@225.1.1.202:30120
+
 #-------------------Live Bóng Đá-------------------#
 #EXTINF:-1 tvg-id="mutv" tvg-logo="https://i.ibb.co/87ggMSv/MU.png" group-title="🔴| LÂM-PHONG SPORT",⚽ MU-CLub
 http://raw.bitnode.pm:81/giorgi/giorgi/20374
