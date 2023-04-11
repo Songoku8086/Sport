@@ -990,6 +990,8 @@ http://gameplay.p2sweb.me:80/angoliveira/x254637/251318
 http://gameplay.p2sweb.me:80/angoliveira/x254637/251316
 #EXTINF:-1 tvg-id="" tvg-name="MOBILE LEGENDS" tvg-logo="https://i.imgur.com/0ebjCZF.png" group-title="GAMEPLAY P2S",MOBILE LEGENDS
 http://159.75.85.63:35455/huya/wzgxs1
+#EXTINF:-1 tvg-name="虎牙4K王者荣耀" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/huya4khonor.jpg" group-title="4K频道",虎牙4K王者荣耀
+http://159.75.85.63:35455/huya/wzgxs1
 #-------------------RADIO VIETNAM-------------------#
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.ibb.co/JKNzw75/ccpladio.png",F• Pladio
 #EXTVLCOPT:http-user-agent="Radio"
