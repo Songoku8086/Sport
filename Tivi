@@ -802,7 +802,7 @@ http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/425328
 #EXTINF:-1 tvg-id="nowpremiersport3" tvg-logo="https://i.ibb.co/NmSPDfJ/now3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Now Premier Sports 3
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/425327
 
-#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="🔴| LÂM-PHONG SPORT", TV 5 (Live EPL)
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.ibb.co/tZ1rKtf/vidio.png" group-title="🔴| LÂM-PHONG SPORT", TV 5 (Live EPL)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham5
@@ -888,9 +888,9 @@ http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/501474
 #EXTINF:1 tvg-id="" tvg-name="DAZN" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.postimg.cc/jdwJ9tyZ/DAZN-La-Liga.jpg",⚽ DAZN Laliga FHD
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/115070
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="🔴| LÂM-PHONG SPORT", DAZN 1
-http://rogermellie.xyz:80/richay/richay/3413630
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=2155&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="🔴| LÂM-PHONG SPORT", DAZN 2
-http://lumaca.talumagishop.de:8000/ticino118/hjCD2SHKVw/68336
+http://theking365tv.me/play/live.php?mac=00:1a:79:00:03:A9&stream=1620&extension=ts
 
 #EXTINF:0 tvg-id="setanta1hd" tvg-logo="https://i.ibb.co/86rsQyd/Setanta-Sports-1.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Setanta 1 HD
 #EXTVLCOPT:network-caching=1000
@@ -907,7 +907,8 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508205
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://i.ibb.co/D10K97K/euro2.png" group-title="🔴| LÂM-PHONG SPORT", EuroSport 2
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508207
-
+#EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/t4PRwF6/china.png", Sport China
+https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="edgesport" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",🎖️| Edge Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8?cc
@@ -990,8 +991,7 @@ http://gameplay.p2sweb.me:80/angoliveira/x254637/251318
 http://gameplay.p2sweb.me:80/angoliveira/x254637/251316
 #EXTINF:-1 tvg-id="" tvg-name="MOBILE LEGENDS" tvg-logo="https://i.imgur.com/0ebjCZF.png" group-title="GAMEPLAY P2S",MOBILE LEGENDS
 http://159.75.85.63:35455/huya/wzgxs1
-#EXTINF:-1 tvg-name="虎牙4K王者荣耀" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/huya4khonor.jpg" group-title="4K频道",虎牙4K王者荣耀
-http://159.75.85.63:35455/huya/wzgxs1
+
 #-------------------RADIO VIETNAM-------------------#
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.ibb.co/JKNzw75/ccpladio.png",F• Pladio
 #EXTVLCOPT:http-user-agent="Radio"
