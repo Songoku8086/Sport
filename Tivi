@@ -791,8 +791,7 @@ udp://@225.1.1.202:30120
 #EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EwLawKc.png" group-title="🌿| Khám phá",🍀|CNBC
 http://raw.bitnode.pm:81/giorgi/giorgi/121628
 #EXTINF:-1 tvg-id="cnn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vBwWXZZ.png",🍀|CNN
-udp://@225.1.1.242:30120
-
+udp://@225.1.4.17:30120
 #-------------------Live Bóng Đá-------------------#
 #EXTINF:-1 tvg-id="mutv" tvg-logo="https://i.ibb.co/87ggMSv/MU.png" group-title="🔴| LÂM-PHONG SPORT",⚽ MU-CLub
 http://raw.bitnode.pm:81/giorgi/giorgi/20374
@@ -990,7 +989,7 @@ http://gameplay.p2sweb.me:80/angoliveira/x254637/251318
 #EXTINF:-1 tvg-id="" tvg-name="LOL LEAGUE OF LEGEND" tvg-logo="https://i.imgur.com/5aBpnxG.png" group-title="GAMEPLAY P2S",LOL LEAGUE OF LEGEND
 http://gameplay.p2sweb.me:80/angoliveira/x254637/251316
 #EXTINF:-1 tvg-id="" tvg-name="MOBILE LEGENDS" tvg-logo="https://i.imgur.com/0ebjCZF.png" group-title="GAMEPLAY P2S",MOBILE LEGENDS
-http://gameplay.p2sweb.me:80/angoliveira/x254637/251317
+http://159.75.85.63:35455/huya/wzgxs1
 #-------------------RADIO VIETNAM-------------------#
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.ibb.co/JKNzw75/ccpladio.png",F• Pladio
 #EXTVLCOPT:http-user-agent="Radio"
