@@ -680,7 +680,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14179/index.m3u8
 
 #-------------------Minh Đức Giải Trí-------------------#
 #EXTINF:-1 tvg-id="hbohd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.imgur.com/w5u4IrO.png",▶️| HBO (HD 8Mbps)
-http://103.56.160.133:8081/hbo
+udp://@225.1.4.90:30120
 #EXTINF:-1 tvg-id="hbo2hd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/gM2rDGW/1265677.png",▶️| HBO 2
 http://raw.bitnode.pm:81/giorgi/giorgi/121725
 #EXTINF:-1 tvg-id="axnhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",▶️| AXN (HD 8Mbps)
@@ -761,7 +761,8 @@ udp://@225.1.1.231:30120
 udp://@225.1.2.24:30120
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GTULNgT.png",🍀|TLC (HD 8Mbps)
 udp://@225.1.1.236:30120
-
+#EXTINF:-1 tvg-id="tv5monde" group-title="🌿| Khám phá" tvg-logo="https://i.ibb.co/R9P4G9X/TV5-Monde.png",TV5 MONDE ASIE HD
+udp://@225.1.1.200:30120
 #EXTINF:-1 tvg-id="hgtvhd" tvg-logo="https://i.ibb.co/kB91Qgx/HGTV.png" group-title="🌿| Khám phá",🍀| HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Khám phá",🍀|History HD
@@ -786,14 +787,11 @@ udp://@225.1.2.52:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌿| Khám phá" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png",🍀| BBC WORLD NEWS (HD 8Mbps)
 udp://@225.1.2.74:30120
 #EXTINF:-1 tvg-id="cna" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/iX9c7AK.png" group-title="🌿| Khám phá",🍀|Channel NewsAsia
-http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-
+udp://@225.1.1.202:30120
 #EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EwLawKc.png" group-title="🌿| Khám phá",🍀|CNBC
 http://raw.bitnode.pm:81/giorgi/giorgi/121628
 #EXTINF:-1 tvg-id="cnn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vBwWXZZ.png",🍀|CNN
 udp://@225.1.1.242:30120
-#EXTINF:-1 tvg-id="cna" tvg-logo="https://i.ibb.co/gjVkS2V/CNA.png" group-title="🌿| Khám phá",CNA (HD 8Mbps)
-udp://@225.1.1.202:30120
 
 #-------------------Live Bóng Đá-------------------#
 #EXTINF:-1 tvg-id="mutv" tvg-logo="https://i.ibb.co/87ggMSv/MU.png" group-title="🔴| LÂM-PHONG SPORT",⚽ MU-CLub
