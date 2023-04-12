@@ -825,6 +825,19 @@ http://starshare.live:8080/live/524594796468/697620653578/143237.ts
 http://starshare.live:8080/live/524594796468/697620653578/143239.ts
 #EXTINF:-1 #EXTINF:-1 tvg-id="beinsport3" tvg-logo="https://i.ibb.co/s671Xhf/bein-sports-3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 3
 http://starshare.live:8080/live/524594796468/697620653578/143241.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" group-title="🔴| LÂM-PHONG SPORT", BeIn Sports English
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ThAAbYF2WPSYNPkPJYH3xQ","k":"WTV34_XfyuQhooPuz9TgdQ"},{"kty":"oct","kid":"mw2dTtO1UsSymGxR33XzKQ","k":"2NAMXmyISzoWYLFEa351tQ"},{"kty":"oct","kid":"xLfsWfpSVcWna3iwdLy56g","k":"WjUw0E3svr-TWShVp7f6_Q"},{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},{"kty":"oct","kid":"1iKe18IIWHWD17TviUrWmw","k":"eCW_Gi4QOaoNxeRbVTZhjg"}]}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" group-title="🔴| LÂM-PHONG SPORT", BeIn Sports 2 Eng
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ThAAbYF2WPSYNPkPJYH3xQ","k":"WTV34_XfyuQhooPuz9TgdQ"},{"kty":"oct","kid":"mw2dTtO1UsSymGxR33XzKQ","k":"2NAMXmyISzoWYLFEa351tQ"},{"kty":"oct","kid":"xLfsWfpSVcWna3iwdLy56g","k":"WjUw0E3svr-TWShVp7f6_Q"},{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},{"kty":"oct","kid":"1iKe18IIWHWD17TviUrWmw","k":"eCW_Gi4QOaoNxeRbVTZhjg"}]}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports1.uk" tvg-name="BT SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/HFKyZ5M/BTSport1.jpg" group-title="🔴| LÂM-PHONG SPORT",BT SPORTS 1 FHD (50FPS)
 http://raw.bitnode.pm:81/giorgi/giorgi/20360
