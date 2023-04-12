@@ -825,19 +825,6 @@ http://starshare.live:8080/live/524594796468/697620653578/143237.ts
 http://starshare.live:8080/live/524594796468/697620653578/143239.ts
 #EXTINF:-1 #EXTINF:-1 tvg-id="beinsport3" tvg-logo="https://i.ibb.co/s671Xhf/bein-sports-3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 3
 http://starshare.live:8080/live/524594796468/697620653578/143241.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" group-title="🔴| LÂM-PHONG SPORT", BeIn Sports English
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ThAAbYF2WPSYNPkPJYH3xQ","k":"WTV34_XfyuQhooPuz9TgdQ"},{"kty":"oct","kid":"mw2dTtO1UsSymGxR33XzKQ","k":"2NAMXmyISzoWYLFEa351tQ"},{"kty":"oct","kid":"xLfsWfpSVcWna3iwdLy56g","k":"WjUw0E3svr-TWShVp7f6_Q"},{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},{"kty":"oct","kid":"1iKe18IIWHWD17TviUrWmw","k":"eCW_Gi4QOaoNxeRbVTZhjg"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" group-title="🔴| LÂM-PHONG SPORT", BeIn Sports 2 Eng
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ThAAbYF2WPSYNPkPJYH3xQ","k":"WTV34_XfyuQhooPuz9TgdQ"},{"kty":"oct","kid":"mw2dTtO1UsSymGxR33XzKQ","k":"2NAMXmyISzoWYLFEa351tQ"},{"kty":"oct","kid":"xLfsWfpSVcWna3iwdLy56g","k":"WjUw0E3svr-TWShVp7f6_Q"},{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},{"kty":"oct","kid":"1iKe18IIWHWD17TviUrWmw","k":"eCW_Gi4QOaoNxeRbVTZhjg"}]}
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports1.uk" tvg-name="BT SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/HFKyZ5M/BTSport1.jpg" group-title="🔴| LÂM-PHONG SPORT",BT SPORTS 1 FHD (50FPS)
 http://raw.bitnode.pm:81/giorgi/giorgi/20360
@@ -848,6 +835,39 @@ http://raw.bitnode.pm:81/giorgi/giorgi/20371
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsportsespn.uk" tvg-name="BT SPORTS 4 FHD (50FPS)" tvg-logo="https://i.ibb.co/NygH8vr/Btsport4.png" group-title="🔴| LÂM-PHONG SPORT",BT SPORTS 4 FHD (50FPS)
 http://raw.bitnode.pm:81/giorgi/giorgi/322582
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9Jaid7.png" group-title="🔴| LÂM-PHONG SPORT", V Sports Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xX6IG7I.png" group-title="🔴| LÂM-PHONG SPORT", V Sports Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" group-title="🔴| LÂM-PHONG SPORT", Globo 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=145d4dd272f53fa0bc15daa206f0b159:e2e8de6b5c4123c4fcfba2c63b70fd09
+https://0104-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" group-title="🔴| LÂM-PHONG SPORT", Globo 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b739e19fd21037418d66f989473d9755:b6da50bf5281d7fefa01c7e66b97b567
+https://0119-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6YbSnUc.png" group-title="🔴| LÂM-PHONG SPORT", Premiere
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34dc14b5497f3a0faca742240cac20c8:0a6e1d0ba9f6b467f39cc51ba4cc9794
+https://0108-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:1 tvg-id="" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/SrgjJjP/Vsportfootball.png" tvg-name="",⚽ V-Football
 http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12076/index.m3u8
 #EXTINF:1 tvg-id="freesports.uk" group-title="🔴| LÂM-PHONG SPORT" tvg-name="Viaplay Xtra FHD VIP UK" tvg-logo="https://i.ibb.co/2yCdzKP/VSport-Extra.png",Viaplay Xtra FHD
@@ -1069,3 +1089,10 @@ https://stream.zeno.fm/8456uy0bcm0uv
 https://stream.zeno.fm/a2dbs2tq1p8uv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/", Radio Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD 360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=16352080
