@@ -820,11 +820,11 @@ http://starshare.live:8080/live/524594796468/697620653578/131889.ts
 #EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/JRCWqbZ/canal-sport-360.png",Canal+ Sport 360
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/496731
 #EXTINF:-1 tvg-id="beinsport1" tvg-logo="https://i.ibb.co/z5jH117/bein-sports-1.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 1
-http://humiptv.live:8080/live/876465421460/087543135678/23793.ts
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
 #EXTINF:-1 #EXTINF:-1 tvg-id="beinsport2" tvg-logo="https://i.ibb.co/tptzTbx/bein-sports-2.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 2
-http://starshare.live:8080/live/524594796468/697620653578/143239.ts
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
 #EXTINF:-1 #EXTINF:-1 tvg-id="beinsport3" tvg-logo="https://i.ibb.co/s671Xhf/bein-sports-3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 3
-http://starshare.live:8080/live/524594796468/697620653578/143241.ts
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extension=ts&play_token=
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports1.uk" tvg-name="BT SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/HFKyZ5M/BTSport1.jpg" group-title="🔴| LÂM-PHONG SPORT",BT SPORTS 1 FHD (50FPS)
 http://raw.bitnode.pm:81/giorgi/giorgi/20360
@@ -850,9 +850,9 @@ http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12079/index.m3u8
 #EXTINF:-1 tvg-id="hubpremier1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="🔴| LÂM-PHONG SPORT",⚽| HubPremier 1
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1 tvg-id="hubpremier2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="🔴| LÂM-PHONG SPORT",⚽| HubPremier 2
-http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/501578
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032528&extension=ts&play_token=
 #EXTINF:-1 tvg-id="HubPremier3" tvg-name="HubPremier3" tvg-logo="https://i.ibb.co/4Ns61QY/znzwou1659622086.png" group-title="🔴| LÂM-PHONG SPORT",⚽ HubPremier 3
-http://rogermellie.xyz:80/richay/richay/1068089
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032527&extension=ts&play_token= 
 #EXTINF:0 tvg-id="astrosupersport" tvg-name="AstroSuperSport" tvg-logo="https://i.ibb.co/ZJvBYyx/Astro-Super-Sport-UHD.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Astro SuperSport
 http://humiptv.live:8080/live/0473936210/8252829362/5480.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Astro SuperSport 2" tvg-name="MY: ASTRO SUPERSPORT 2 FHD" tvg-logo="https://i.ibb.co/QPqdLxk/astro2.png" group-title="🔴| LÂM-PHONG SPORT",ASTRO SUPERSPORT 2
@@ -873,7 +873,7 @@ http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508249
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremierleague.uk" tvg-name="S.K.Y SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="🔴| LÂM-PHONG SPORT",S.K.Y SPORTS PREMIER LEAGUE
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508257
 #EXTINF:-1 tvg-id="skysportsmaineventhd" tvg-logo="https://i.ibb.co/Q6SS7SJ/Sky-Sports-Main-Event-UHD.png" group-title="🔴| LÂM-PHONG SPORT",SKY SPORTS MAIN EVENT
-http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508253
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83450&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QrGSRc7/Sky-Sport-Mix.png" group-title="🔴| LÂM-PHONG SPORT", Sky Sports Mix
 http://raw.bitnode.pm:81/giorgi/giorgi/20701
 #EXTINF:0 tvg-logo="https://i.ibb.co/NK2PrnL/Sky-Sport-Calcio.png" group-title="🔴| LÂM-PHONG SPORT",SKY SPORT CALCIO
@@ -942,7 +942,7 @@ http://rogermellie.xyz:80/richay/richay/3413557
 #EXTVLCOPT:network-caching=1000
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BR: COMBATE FHD" tvg-logo="https://i.ibb.co/4JKFQtQ/combat.png" group-title="🔴| LÂM-PHONG SPORT",COMBAT FHDR
-http://176.57.50.167:25461/397758/580592/85165
+http://gameplay.p2sweb.me:80/angoliveira/x254637/203547
 #EXTINF:0 CUID="1469" tvg-name="FIGHT BOX" tvg-logo="https://i.ibb.co/CbFCs0D/fightbox.png" group-title="🔴| LÂM-PHONG SPORT",FIGHT BOX
 http://iptvh2o.com:2082/bestregards/7W88PkMXp4/138356
 #EXTINF:0 tvg-id="mmatvhd" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/x1m29yh/MMAtv.png",🎖️| MMA-TV.com HD
