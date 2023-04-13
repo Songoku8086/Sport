@@ -59,14 +59,15 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=16794
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV) 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/75ZOzqwmaeaJbGHMOD9Ag", "kid":"VCWWROZoRgOfeiijdVz70Q" } ], "type":"temporary" } 
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV) 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wYc4D53llWCewoCSLJK8/Q", "kid":"G83k2oT2TP27SHVEzSSUtw" } ], "type":"temporary" } 
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/75ZOzqwmaeaJbGHMOD9Ag", "kid":"VCWWROZoRgOfeiijdVz70Q" } ], "type":"temporary" }
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wYc4D53llWCewoCSLJK8/Q", "kid":"G83k2oT2TP27SHVEzSSUtw" } ], "type":"temporary" }
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
 #-------------------Hoạt hình HD-------------------#
 
