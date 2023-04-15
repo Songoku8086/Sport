@@ -488,7 +488,11 @@ https://7pal.short.gy/bein-uhd
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
 
 #EXTINF:0 group-title="🌏| 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/zSv7xmm/Sky-Sport-Bundesliga-UHD-DE-Logo-2020-svg.png",⚽ Sky Sport Bundesliga ⁴ᴷ
-http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=ZKF89T31BF
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=88281&extension=ts&play_token=8QXkqdzaHe
+
+#EXTINF:-1  group-title="🌏| 4K 🇺 🇭 🇩" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", TF1 ⁴ᴷ UHD
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=37744&extension=ts&play_token=bTOyO83d8Z
+
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1UHD" tvg-logo="https://i.ibb.co/gTd6Hnn/1280px-Sky-Sport-F1-Logo-2018-svg.png" group-title="🌏| 4K 🇺 🇭 🇩",Sky Sports F1 ⁴ᴷ
 http://nv1connect.com:80/12345678/87654321/73791
 #EXTINF:-1 tvg-id="hubpremier2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="🌏| 4K 🇺 🇭 🇩",HubPremier ⁴ᴷ
@@ -496,6 +500,10 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 #EXTINF:0 tvg-logo="https://i.ibb.co/44KZ1yK/elevensports1-4k-1-632x221-1.png" group-title="🌏| 4K 🇺 🇭 🇩",⚽ ElevenSport ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20068/index.m3u8
+
+#EXTINF:-1  group-title="🌏| 4K 🇺 🇭 🇩" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", RMC Sport ⁴ᴷ|UHD
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=6976&extension=ts&play_token=zr6tSzbIDy
+
 #EXTINF:1 tvg-id="viasatsport.fi" group-title="🌏| 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
 http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=ZKF89T31BF
 #EXTINF:-1 tvg-id="Vsportuhd" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🌏| 4K 🇺 🇭 🇩",V Sport UltraHD ⁴ᴷ UHD 
@@ -826,12 +834,47 @@ http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/425328
 #EXTINF:-1 tvg-id="nowpremiersport3" tvg-logo="https://i.ibb.co/NmSPDfJ/now3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Now Premier Sports 3
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/425327
 
+#EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/EaRVaEX.png",CHAMPIONS TV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/IgGVlgI.png",CHAMPIONS TV 2 
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1MBBBBN.png", CHAMPIONS TV 3
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
 #EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.ibb.co/tZ1rKtf/vidio.png" group-title="🔴| LÂM-PHONG SPORT", TV 5 (Live EPL)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+#EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-id="ChampionsTV6.id" tvg-logo="https://i.imgur.com/md5aib0.png", CHAMPIONS TV 6 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
+#EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.imgur.com/DQ5abQT.png",Premier League TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=chamepl
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canal+premierleague.fr" tvg-name="FR: CANAL+ PREMIERE LEAGUE FHD" tvg-logo="https://logo.iptveditor.com/canal+premierleague.png" group-title="🔴| LÂM-PHONG SPORT",⚽ CANAL+ PREMIERE LEAGUE FHD
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/496603
@@ -972,6 +1015,8 @@ http://iptvh2o.com:2082/bestregards/7W88PkMXp4/138356
 #EXTINF:0 tvg-id="mmatvhd" group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/x1m29yh/MMAtv.png",🎖️| MMA-TV.com HD
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19243/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="🔴| LÂM-PHONG SPORT",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="WWENetwork" tvg-name="Peacock Live | WWE Network" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="🔴| LÂM-PHONG SPORT",Peacock Live | WWE Network
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/405955
 #EXTINF:-1 tvg-id="wwehd" tvg-logo="https://i.ibb.co/z5FfTRm/WWE-Network.png" group-title="🔴| LÂM-PHONG SPORT",WWE HD
