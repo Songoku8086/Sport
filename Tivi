@@ -471,7 +471,7 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="🌏| 4K 🇺 🇭 🇩",Sky Sports Main Event ⁴ᴷ
 http://rogermellie.xyz:80/richay/richay/1042160
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmainevent.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/500px-Sky_Sports_logo_2020.svg.png" group-title="🌏| 4K 🇺 🇭 🇩",EPL 4K ULTRA HDR SKY SPORTS
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/500px-Sky_Sports_logo_2020.svg.png" group-title="🌏| 4K 🇺 🇭 🇩",EPL 4K ULTRA HDR SKY SPORTS
 http://raw.bitnode.pm:81/giorgi/giorgi/1227372
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstrosupersportUHD.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png" group-title="🌏| 4K 🇺 🇭 🇩",EPL 4K ULTRA HDR ASTRO
 http://raw.bitnode.pm:81/giorgi/giorgi/1124635
@@ -936,11 +936,11 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19158/index.m3u8
 #EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/x2Kc41T/eleven-sports-2.png",⚽ Eleven Sports 2 FHD
 http://rogermellie.xyz:80/richay/richay/3413099
 
-#EXTINF:1 tvg-id="skysportsfootball" tvg-logo="https://i.ibb.co/pvt00Xj/Sky-Sport-Football.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Sky Sports Football FHD
+#EXTINF:1 tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/pvt00Xj/Sky-Sport-Football.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Sky Sports Football FHD
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508249
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremierleague.uk" tvg-name="S.K.Y SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="🔴| LÂM-PHONG SPORT",S.K.Y SPORTS PREMIER LEAGUE
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/508257
-#EXTINF:-1 tvg-id="skysportsmaineventhd" tvg-logo="https://i.ibb.co/Q6SS7SJ/Sky-Sports-Main-Event-UHD.png" group-title="🔴| LÂM-PHONG SPORT",SKY SPORTS MAIN EVENT
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="https://i.ibb.co/Q6SS7SJ/Sky-Sports-Main-Event-UHD.png" group-title="🔴| LÂM-PHONG SPORT",SKY SPORTS MAIN EVENT
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83450&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QrGSRc7/Sky-Sport-Mix.png" group-title="🔴| LÂM-PHONG SPORT", Sky Sports Mix
 http://raw.bitnode.pm:81/giorgi/giorgi/20701
