@@ -507,7 +507,7 @@ http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=6976&exte
 
 #EXTINF:1 tvg-id="viasatsport.fi" group-title="🌏| 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
 http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=ZKF89T31BF
-#EXTINF:-1 tvg-id="Vsportuhd" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🌏| 4K 🇺 🇭 🇩",V Sport UltraHD ⁴ᴷ UHD 
+#EXTINF:-1 tvg-id="viasatsports.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🌏| 4K 🇺 🇭 🇩",V Sport UltraHD ⁴ᴷ UHD 
 https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="🌏| 4K 🇺 🇭 🇩",⚽ Astro Super Sport ⁴ᴷ
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
