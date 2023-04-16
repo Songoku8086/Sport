@@ -887,11 +887,11 @@ http://humiptv.live:8080/live/0473936210/8252829362/1961.ts
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts
 #EXTINF:-1 group-title="🔴| LÂM-PHONG SPORT" tvg-logo="https://i.ibb.co/JRCWqbZ/canal-sport-360.png",Canal+ Sport 360
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/496731
-#EXTINF:-1 tvg-id="beinsport1" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 1
+#EXTINF:-1 tvg-id="beinsportsen1" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 1
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
-#EXTINF:-1 #EXTINF:-1 tvg-id="beinsport2" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 2
+#EXTINF:-1 #EXTINF:-1 tvg-id="beinsportsen2" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 2
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
-#EXTINF:-1 #EXTINF:-1 tvg-id="beinsport3" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 3
+#EXTINF:-1 #EXTINF:-1 tvg-id="beinsportsen3" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="🔴| LÂM-PHONG SPORT",⚽ Bein Sport 3
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extension=ts&play_token=
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsports1.uk" tvg-name="BT SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/HFKyZ5M/BTSport1.jpg" group-title="🔴| LÂM-PHONG SPORT",BT SPORTS 1 FHD (50FPS)
